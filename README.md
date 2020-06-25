@@ -1,4 +1,5 @@
 # egaming
 To run the App:
-npm install
-npm run dev
+
+- npm install
+- npm run dev
